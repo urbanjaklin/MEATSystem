@@ -1,0 +1,37 @@
+{
+	"MeetingCount": 10000000,
+	"VacationCount": 20000000,
+	"Events": [
+		{
+			"start": "Tue Dec 13 10:30:00 EST 2016",
+			"emp": [
+				"Employee"
+			],
+			"end": "Tue Dec 13 11:00:00 EST 2016",
+			"id": 10000000,
+			"room": "47L2",
+			"desc": "Meeting"
+		},
+		{
+			"start": "Wed Nov 23 00:00:00 EST 2016",
+			"emp": [
+				"Employee"
+			],
+			"end": "Sun Nov 27 00:00:00 EST 2016",
+			"id": 20000000,
+			"room": "",
+			"desc": "Vacation"
+		},
+		{
+			"start": "Thu Nov 24 00:00:00 EST 2016",
+			"emp": [
+				"company"
+			],
+			"end": "Fri Nov 25 00:00:00 EST 2016",
+			"id": 30000000,
+			"room": "",
+			"desc": "Holiday"
+		}
+	],
+	"HolidayCount": 30000000
+}

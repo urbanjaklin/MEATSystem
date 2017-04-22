@@ -1,0 +1,64 @@
+[{
+    "id": "nguy0621",
+    "firstName": "Luan",
+    "lastName": "Nguyen",
+    "email": "nguy0621@cse.sc.edu",
+    "title": "Senior Engineer",
+    "totalVacationDays": 21
+}, {
+    "id": "gayxx067",
+    "firstName": "Gregory",
+    "lastName": "Gay",
+    "email": "gayxx067@cse.sc.edu",
+    "title": "Supervisor",
+    "totalVacationDays": 21
+}, {
+    "id": "bob099",
+    "firstName": "Robert",
+    "lastName": "Bob",
+    "email": "bob099@cse.sc.edu",
+    "title": "Intern",
+    "totalVacationDays": 7
+}, {
+    "id": "tolas9999",
+    "firstName": "Georganne",
+    "lastName": "Tolaas",
+    "email": "tolas9999@cse.sc.edu",
+    "title": "Program Coordinator",
+    "totalVacationDays": 14
+}, {
+    "id": "smith0001",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "smith0001@cse.sc.edu",
+    "title": "Engineer",
+    "totalVacationDays": 21
+}, {
+    "id": "desil1337",
+    "firstName": "Ian",
+    "lastName": "De Silva",
+    "email": "desil1337@cse.sc.edu",
+    "title": "Engineer",
+    "totalVacationDays": 14
+}, {
+    "id": "jakline",
+    "firstName": "Urban",
+    "lastName": "Jaklin",
+    "email": "jakline@email.sc.edu",
+    "title": "CFO",
+    "totalVacationDays": 28
+}, {
+    "id": "jea2",
+    "firstName": "Jessica",
+    "lastName": "Anderson",
+    "email": "jea2@email.sc.edu",
+    "title": "CEO",
+    "totalVacationDays": 26
+}, {
+    "id": "delahun2",
+    "firstName": "Natasha",
+    "lastName": "Delahunt",
+    "email": "delahun2@email.sc.edu",
+    "title": "COO",
+    "totalVacationDays": 20
+}]

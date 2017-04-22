@@ -1,0 +1,106 @@
+[{
+ 	"commands": [
+ 		{
+ 			"name": "edit-meeting-details",
+ 			"arguments": [
+ 				{
+ 					"name": "meeting-id",
+ 					"value": "10000001"
+ 				},
+ 				{
+ 					"name": "date",
+ 					"value": "11252016"
+ 				},
+ 				{
+ 					"name": "description",
+ 					"value": "it's an edited meeting now!"
+ 				}
+ 			]
+ 		},
+ 		{
+ 			"name": "edit-meeting-details",
+ 			"arguments": [
+ 				{
+ 					"name": "meeting-id",
+ 					"value": "10000002"
+ 				},
+ 				{
+ 					"name": "start-time",
+ 					"value": "08:30"
+ 				},
+ 				{
+ 					"name": "description",
+ 					"value": "it's a differently edited meeting now!"
+ 				}
+ 			]
+ 		},
+ 		{
+ 			"name": "delete-meeting",
+ 			"arguments": [
+ 				{
+ 					"name": "meeting-id",
+ 					"value": "10000004"
+ 				}
+ 			]
+ 		},
+ 		{
+ 			"name": "print-schedule-all",
+ 			"arguments": [
+ 				{
+ 					"name": "start-date",
+ 					"value": "11222016"
+ 				},
+ 				{
+ 					"name": "end-date",
+ 					"value": "11232016"
+ 				},
+ 				{
+ 					"name": "output-file",
+ 					"value": "testout1"
+ 				}
+ 			]
+ 		},
+ 		{
+ 			"name": "print-schedule-employee",
+ 			"arguments": [
+ 				{
+ 					"name": "employee-id",
+ 					"value": "urban"
+ 				},
+ 				{
+ 					"name": "start-date",
+ 					"value": "10012016"
+ 				},
+ 				{
+ 					"name": "end-date",
+ 					"value": "12152016"
+ 				},
+ 				{
+ 					"name": "output-file",
+ 					"value": "testout2"
+ 				}
+ 			]
+ 		},
+ 		{
+ 			"name": "print-schedule-room",
+ 			"arguments": [
+ 				{
+ 					"name": "room-id",
+ 					"value": "3D15"
+ 				},
+ 				{
+ 					"name": "start-date",
+ 					"value": "10012016"
+ 				},
+ 				{
+ 					"name": "end-date",
+ 					"value": "12152016"
+ 				},
+ 				{
+ 					"name": "output-file",
+ 					"value": "testout3"
+ 				}
+ 			]
+ 		}
+ 	]
+}]

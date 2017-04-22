@@ -1,0 +1,33 @@
+[{
+ 	"commands": [
+ 		{
+ 			"name": "add-meeting",
+ 			"arguments": [
+ 				{
+ 					"name": "date",
+ 					"value": "12062016"
+ 				},
+ 				{
+ 					"name": "start-time",
+ 					"value": "09:30"
+ 				},
+ 				{
+ 					"name": "end-time",
+ 					"value": "11:00"
+ 				},
+ 				{
+ 					"name": "room-id",
+ 					"value": "3A66"
+ 				},
+ 				{
+ 					"name": "attendee",
+ 					"value": "Employee"
+ 				},
+ 				{
+ 					"name": "description",
+ 					"value": "Adding a new meeting from script."
+ 				}
+ 			]
+ 		}
+ 	]
+}]

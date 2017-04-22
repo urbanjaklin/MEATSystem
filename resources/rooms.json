@@ -1,0 +1,46 @@
+[{
+    "id": "3D15",
+    "building": "Swearingen",
+    "floor": 3,
+    "occupancy": 15
+}, {
+    "id": "3A66",
+    "building": "Swearingen",
+    "floor": 3,
+    "occupancy": 8
+}, {
+    "id": "2A07",
+    "building": "Swearingen",
+    "floor": 2,
+    "occupancy": 30
+}, {
+    "id": "3D75",
+    "building": "Swearingen",
+    "floor": 3,
+    "occupancy": 45
+}, {
+    "id": "222",
+    "building": "Sumwalt",
+    "floor": 2,
+    "occupancy": 36
+}, {
+    "id": "Amoco Hall",
+    "building": "Swearingen",
+    "floor": 1,
+    "occupancy": 109
+}, {
+    "id": "361",
+    "building": "Sumwalt",
+    "floor": 3,
+    "occupancy": 25
+}, {
+    "id": "340",
+    "building": "Sumwalt",
+    "floor": 3,
+    "occupancy": 6
+}, {
+    "id": "244",
+    "building": "Sumwalt",
+    "floor": 2,
+    "occupancy": 25
+} ]
